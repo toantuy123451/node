@@ -1,0 +1,26 @@
+{
+    "name": "toan",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hau99082005/toan.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hau99082005/toan/issues"
+    },
+    "homepage": "https://github.com/Hau99082005/toan#readme",
+    "description": "",
+    "dependencies": {
+        "express": "^4.21.2"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9"
+    }
+}
